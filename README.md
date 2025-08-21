@@ -96,8 +96,8 @@ Phase 2: NAT Discovery & Simultaneous Connect
 │   MacBook   │─────────────►│ STUN Servers    │◄─────────────│Linux Desktop│
 │             │              │ (External IP    │              │             │
 └─────────────┘              │  Discovery)     │              └─────────────┘
-        │                    └─────────────────┘                      │
-        │                    Coordinated Hole Punching               │
+        │                    └─────────────────┘                       │
+        │                    Coordinated Hole Punching                 │
         └──────────────────────────────────────────────────────────────┘
 ```
 
